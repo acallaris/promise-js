@@ -1,0 +1,30 @@
+{
+  "name": "@acallaris/promise-js",
+  "version": "1.0.0",
+  "description": "Handle promises like never before",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx mocha",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acallaris/promise-js.git"
+  },
+  "keywords": [
+    "error",
+    "promise",
+    "handling",
+    "promise handling"
+  ],
+  "author": "acallaris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acallaris/promise-js/issues"
+  },
+  "homepage": "https://github.com/acallaris/promise-js#readme",
+  "devDependencies": {
+    "mocha": "^9.0.2"
+  }
+}
